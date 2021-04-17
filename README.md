@@ -19,6 +19,7 @@ python feedify.py
 #### To add your Insta Username to Database
 
 Share Our Blog : https://cyberjeevi.blogspot.com
+Follow Our Blog by Clicking Follow on SideBar
 
 Send username to email cyberjeevi@gmail.com
 
