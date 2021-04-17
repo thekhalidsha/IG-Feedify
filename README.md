@@ -17,6 +17,9 @@ pip install -r requirements.txt
 python feedify.py
 ```
 #### To add your Insta Username to Database
+
+Share Our Blog : cyberjeevi.blogspot.com
+
 Send username to email cyberjeevi@gmail.com
 
 Or WhatsApp http://wa.me/15817003192
