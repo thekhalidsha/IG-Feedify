@@ -9,6 +9,10 @@ Written in Python Language
 
 <a href="https://youtube.com/c/CYBERARENA"><img src="1617046401067.png"></a>
 
+### About This Bot
+
+  See our Blog for Introduction to IG-Feedify Bot
+      Link : http://bit.ly/IG-Feedify
 ### Installation :
 ```
 git clone https://github.com/cyberjeevi/IG-Feedify
