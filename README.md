@@ -12,7 +12,8 @@ Written in Python Language
 ### About This Bot
 
   See our Blog for Introduction to IG-Feedify Bot
-      Link : http://bit.ly/IG-Feedify
+      
+   Blog Link : http://bit.ly/IG-Feedify
 ### Installation :
 ```
 git clone https://github.com/cyberjeevi/IG-Feedify
